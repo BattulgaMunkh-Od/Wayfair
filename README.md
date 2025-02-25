@@ -1,6 +1,5 @@
 # Overview
 This project analyzes Wayfair customer reviews and sales data using Python and SQL to identify purchasing patterns and optimize pricing strategies, especially for seasonal discounts.
-
 # Key Features
 🔹 Designed and implemented a relational database in MySQL for Black Friday sales data.
 🔹 Used SQL joins to extract and merge data efficiently.
